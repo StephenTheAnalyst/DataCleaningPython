@@ -35,3 +35,5 @@ This dataset contains information on customers and their choices of being contac
 ## Results/Finding 
 
 Click [here](https://github.com/StephenTheAnalyst/DataCleaningPython/blob/main/Data%20Cleaning.md) to see how i went through with all those.
+
+### You can check [here](https://github.com/StephenTheAnalyst/ExploratoryDataAnalysisPython) for project where i explored data and visualized using Python.... Thanks ✌😊
